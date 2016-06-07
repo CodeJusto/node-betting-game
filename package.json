@@ -1,0 +1,19 @@
+{
+  "name": "betting_game",
+  "version": "1.0.0",
+  "description": "win or lose it all. probably lose it all",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeJusto/node-betting-game.git"
+  },
+  "author": "Justin Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeJusto/node-betting-game/issues"
+  },
+  "homepage": "https://github.com/CodeJusto/node-betting-game#readme"
+}
